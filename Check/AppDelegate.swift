@@ -1,11 +1,3 @@
-//
-//  AppDelegate.swift
-//  Check
-//
-//  Created by Shikha Lata on 22/1/18.
-//  Copyright © 2018 Shikha Lata. All rights reserved.
-//
-
 import UIKit
 
 @UIApplicationMain
